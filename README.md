@@ -23,4 +23,4 @@ Bootstrap Java
 
 ### Github stats:
 
-  <img align="left" alt="joshuajoyreji's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=joshuajoyreji&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  [![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshuajoyreji)](https://github.com/joshuajoyreji/github-readme-stats)
