@@ -20,7 +20,3 @@
 Bootstrap Java
 <br />
 <br />
-
-### Github stats:
-
-[![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshuajoyreji)](https://github.com/joshuajoyreji/github-readme-stats)
